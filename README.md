@@ -70,3 +70,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 8. How many pianos have I serviced with humidity control issues?
 9. What is the most common brand of piano I've tuned this year?
 10. How many emergency tuning calls have I received this month?
+
+## Key Questions
+1. 
+2. How many pianos have I tuned this month?
+3. What is the average time I spend on each tuning?
+4. How many repeat clients have I serviced this quarter?
+5. What percentage of my tunings are for concert preparations?
+6. How many new clients have I acquired through referrals?
+7. What is my current satisfaction rating from clients?
+8. How many pianos have I serviced with humidity control issues?
+9. What is the most common brand of piano I've tuned this year?
+10. How many emergency tuning calls have I received this month?
